@@ -1,0 +1,46 @@
+# -------------------------
+# 🐍 Python
+# -------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+
+# -------------------------
+# 🧪 Virtual Environments
+# -------------------------
+.venv/
+venv/
+env/
+
+# -------------------------
+# 📓 Jupyter / Colab
+# -------------------------
+.ipynb_checkpoints/
+
+# -------------------------
+# 💻 OS / Editor
+# -------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# -------------------------
+# 📥 Downloader Temp Files
+# -------------------------
+*.part
+*.tmp
+*.download
+*.partial
+*.parts/
+_segments/
+
+# -------------------------
+# 📊 Logs / Debug
+# -------------------------
+*.log
